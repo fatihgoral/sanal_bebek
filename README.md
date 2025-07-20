@@ -83,7 +83,7 @@ gcc caspers_virtual_care.c -o casper
 
 Aşağıdaki 14 seçeneği kullanarak Casper'ın ihtiyaçlarını yönetin:
 
-| No | Eylem                         |
+| No | işlem                       |
 |----|-------------------------------|
 | 1  | Yemek yedirme                 |
 | 2  | Uyutma                        |
